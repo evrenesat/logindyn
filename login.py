@@ -1,7 +1,7 @@
 __author__ = 'Evren Esat Ozkan'
 # LoginDyn
 #
-# DynDns.org forcing free users to login montly.
+# DynDns forcing free users to login montly.
 # This snippet automates login process and emails to you IF CAN'T login to site.
 # Attach this to a montly cron job
 
