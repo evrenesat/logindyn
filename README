@@ -1,1 +1,3 @@
-This file was created by PyCharm 2.7.3 for binding GitHub repository
+DynDns.org forcing free users to login montly.
+this snippet automates login process and emails to you IF CAN'T login to site.
+Attach this to a montly cron job
